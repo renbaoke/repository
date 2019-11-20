@@ -1,0 +1,7 @@
+interface Displayable : display()
+输入+特征参数=输出，特征参数变化，输出label不变，输入变化，输出label变化。
+特征是不变的，特定特征序列产生的输出的label也是不变的，属性和label绑定，而非输出。
+label表示几何产生的过程，也表明了其依赖关系。
+草图并非特征，其中的点、线、约束才是特征。
+几个shell，就有几个part，文件只是part的容器(container)。
+自动化测试是保证产品质量的一大法宝。
